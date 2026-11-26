@@ -1,0 +1,1 @@
+{"description":"One Line, Big Laugh — a single original funny line, written to /output/entry.txt","license":"MIT","main":"main.ts","name":"coral-404-big-laugh","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
